@@ -1,1 +1,1 @@
-# encyclopedia
+# This is a Django web application that provides an encyclopedia-style platform. It includes features such as searching for entries, viewing individual entries, creating new entries, and displaying a random entry. The entries are written in Markdown format for better formatting and styling.
